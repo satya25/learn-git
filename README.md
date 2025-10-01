@@ -1,4 +1,13 @@
+
 # 🎓 Data Structures Mini-Project (C Language)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Pages-Live-green?style=for-the-badge&logo=github" alt="GitHub Pages Badge">
+  <img src="https://img.shields.io/github/license/satya25/learn-git?style=for-the-badge" alt="License Badge">
+  <img src="https://img.shields.io/badge/Workshop-Git%20%26%20C%20Mini--Project-blue?style=for-the-badge" alt="Workshop Badge">
+  <img src="https://img.shields.io/badge/AI%20Alchemy%20Hub-Contributor-teal?style=for-the-badge" alt="AI Alchemy Hub Badge">
+</p>
+
 
 This repository is part of the Git & GitHub workshop curated by Satya Prakash Nigam for learners exploring modular C programming and version control. It is designed to help students and contributors apply Data Structures in real-world coding workflows using Git.
 
@@ -16,7 +25,7 @@ learn-git/
 ├── Makefile                         # Build automation
 ├── LICENSE                          # Open-source license declaration
 ├── README.md                        # Project overview and usage instructions
-├── CONTRUBUTING.md                  # Guidelines for student and community contributions
+├── CONTRIBUTING.md                  # Guidelines for student and community contributions
 ├── GIT_WORKFLOW.md                  # Step-by-step Git instructions for beginners
 ├── git-cheat-sheet-for-you.md       # Git command reference and ASCII flow diagram
 ├── git-github-workshop.md           # Slide deck content for Git & GitHub workshop
@@ -66,13 +75,17 @@ make clean
 
 ## 🧰 Git Workflow
 
-If you're new to Git and want to personalize this project and push it to your own GitHub account, follow the step-by-step guide in [`GIT_WORKFLOW.md`](GIT_WORKFLOW.md).
+If you're new to Git and want to personalize this project and push it to your own GitHub account, follow the step-by-step guide in [`GIT_WORKFLOW.md`](https://github.com/satya25/learn-git/blob/main/GIT_WORKFLOW.md).
+
+For a quick reference of essential Git commands and visual flow, check out the [`git-cheat-sheet-for-you.md`](https://github.com/satya25/learn-git/blob/main/git-cheat-sheet-for-you.md).
+
+To set up Git on your system (Windows, Linux, macOS), follow the platform-specific instructions in [`git-installation-configuration-guide.md`](https://github.com/satya25/learn-git/blob/main/git-installation-configuration-guide.md).
 
 ---
 
 ## 🤝 Want to Contribute?
 
-Check out [`CONTRIBUTING.md`](CONTRIBUTING.md) for ideas and instructions on how to contribute meaningfully to this project.
+Check out [`CONTRIBUTING.md`](https://github.com/satya25/learn-git/blob/main/CONTRIBUTING.md) for ideas and instructions on how to contribute meaningfully to this project.
 
 ---
 
@@ -91,6 +104,4 @@ Check out [`CONTRIBUTING.md`](CONTRIBUTING.md) for ideas and instructions on how
 **Satya Prakash Nigam**  
 Architecting modular, industry-ready learning experiences  
 Website: [aialchemyhub.in](https://www.aialchemyhub.in)
-
----
 
