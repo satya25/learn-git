@@ -1,0 +1,13 @@
+# GitHub Pages Configuration for Learn Git Workshop
+
+title: Learn Git Workshop
+description: Modular onboarding for Git and C mini-projects, designed for global learners and legacy clarity.
+theme: jekyll-theme-cayman
+author: Satya Prakash Nigam
+email: spnigam25@yahoo.com
+url: "https://satya25.github.io/learn-git"
+baseurl: "" # Leave empty for root-level GitHub Pages
+
+# Optional social links
+linkedin_username: spn25
+github_username: satya25
