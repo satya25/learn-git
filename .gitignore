@@ -1,0 +1,39 @@
+# Compiled object files
+*.o
+
+# Executable binaries
+*.exe
+*.out
+
+# Build directories
+/build/
+/bin/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Editor and OS-specific files
+*.swp
+*.swo
+*.bak
+*.DS_Store
+Thumbs.db
+
+# IDE folders (optional)
+.vscode/
+.idea/
+
+# XAMPP or web artifacts (if any)
+*.php~
+*.html~
+*.db
+
+# Test output
+tests/sample_output.txt
+
+
+# Local course page rendering (XAMPP)
+index.php
+topnav.php
+footer.php

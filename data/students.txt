@@ -1,0 +1,8 @@
+# Sample student records for stack module
+# Format: Name,Section,USN,Grade
+
+Ananya,A,1BM21CS001,A
+Rohan,B,1BM21CS002,B
+Meghana,A,1BM21CS003,C
+Siddharth,C,1BM21CS004,B
+Divya,B,1BM21CS005,A
